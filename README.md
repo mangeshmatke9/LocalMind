@@ -49,7 +49,7 @@ Send a message naturally and interact with the local AI.
 ### Saved Conversations in sidebar
 All chats are listed in the sidebar and stored locally.
 
-![Conversation Flow](Images/conversation.png)
+![Conversation Flow](Images/conversations.png)
 
 ---
 
