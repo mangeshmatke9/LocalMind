@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Local Mind</title>
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+
+<!-- GLOBAL HEADER (ONLY ONE) -->
+<header class="header">
+  <div class="header-title">Local Mind</div>
+</header>
+
+<div class="app">
+
+  <!-- Sidebar -->
+  <aside class="sidebar">
+    <button class="new-chat" onclick="newChat()">＋ New chat</button>
+    <div id="chatList" class="chat-list"></div>
+  </aside>
+
+  <!-- Main -->
+  <main class="main">
+
+    <!-- Messages -->
+    <div id="messages" class="messages">
+      <div class="messages-inner"></div>
+    </div>
+
+    <!-- Composer -->
+    <div class="composer">
+      <div class="composer-inner">
+        <textarea
+          id="input"
+          placeholder="Message Local Mind"
+          rows="1"
+          onkeydown="handleEnter(event)"
+        ></textarea>
+        <button onclick="send()">➤</button>
+      </div>
+      <div class="composer-hint">
+        Local LLM • Chats saved on your machine
+      </div>
+    </div>
+
+  </main>
+</div>
+
+<script src="/static/script.js"></script>
+</body>
+</html>
