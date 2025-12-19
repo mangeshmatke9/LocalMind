@@ -1,4 +1,4 @@
-# LocalMind 🧠
+# LocalMind
 
 **LocalMind** is a private, fully local application that runs entirely on your machine.  
 It is designed to feel calm, capable, and reliable — without accounts, APIs, or cloud dependency.
