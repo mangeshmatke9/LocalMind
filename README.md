@@ -28,28 +28,28 @@ A calm, familiar interface that runs entirely on your machine.
 ### Launch & Overview
 How to start LocalMind and what it looks like at first glance.
 
-![LocalMind Home](images/Launch.png)
+![LocalMind Home](Images/Launch.png)
 
 ---
 
 ### Home Screen
 The clean home interface of LocalMind, ready for conversation.
 
-![Sending Message](images/home.png)
+![Sending Message](Images/home.png)
 
 ---
 
 ### 💬 Sending Your First Message
 Send a message naturally and interact with the local AI.
 
-![Thinking Indicator](images/Sending%20First%20Message.png)
+![Thinking Indicator](Images/Sending%20First%20Message.png)
 
 ---
 
 ### Saved Conversations in sidebar
 All chats are listed in the sidebar and stored locally.
 
-![Conversation Flow](images/conversation.png)
+![Conversation Flow](Images/conversation.png)
 
 ---
 
