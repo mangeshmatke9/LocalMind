@@ -40,7 +40,7 @@ The clean home interface of LocalMind, ready for conversation.
 ---
 
 ### 💬 Sending Your First Message
-Send a message naturally and interact with the local AI.
+Send a message and interact with the local AI.
 
 ![Thinking Indicator](Images/Sending%20First%20Message.png)
 
