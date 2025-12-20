@@ -1,7 +1,7 @@
 # LocalMind
 
-**LocalMind** is a private, fully local application that runs entirely on your machine.  
-It is designed to feel calm, capable, and reliable — without accounts, APIs, or cloud dependency.
+**LocalMind** is a deliberately minimal, fully local AI chat experience focused on privacy, clarity, and calm interaction.
+It avoids unnecessary features and cloud dependencies, providing a dependable personal AI that lives entirely on your machine.
 
 Your conversations stay with you.  
 Your AI runs locally.  
